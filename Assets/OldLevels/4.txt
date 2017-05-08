@@ -1,0 +1,1 @@
+{"width":6, "height":6, "start":{"row":0, "col":0}, "end":{"row":5, "col":5}, tiles:[{row: 0, col:5, moves:1,  type:"block"},{row: 5, col:0, moves:2,  type:"block"}, {row: 5, col:1, moves:3,  type:"block"}], "enemy":[]}

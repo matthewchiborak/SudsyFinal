@@ -1,0 +1,1 @@
+{"width":5, "height":5, "start":{"row":1, "col":1}, "end":{"row":3, "col":3}, "tiles":[{row: 1, col:3, moves:1, type:"block"},{row: 2, col:2, moves:0, type:"water"},{row: 2, col:4, moves:0, type:"block"},{row: 3, col:1, moves:0, type:"water"}], "enemy":[]}

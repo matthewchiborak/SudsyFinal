@@ -1,0 +1,1 @@
+﻿{"width":5, "height":5, "start":{"row":0, "col":0}, "end":{"row":4, "col":0}, "tiles":[], "enemy":[{"row":2,"col":4,"type":"horizontal"}]}
